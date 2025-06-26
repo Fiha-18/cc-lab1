@@ -1,0 +1,2 @@
+int n = 17;
+if (n == 17) { return 1; }

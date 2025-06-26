@@ -1,0 +1,5 @@
+a -> ID
++ -> ADD
+b -> ID
+= -> ASSIGN
+13 -> NUM

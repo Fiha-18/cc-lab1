@@ -1,0 +1,16 @@
+int -> TYPE
+n -> ID
+= -> ASSIGN
+17 -> NUM
+; -> SEMI
+if -> IF
+( -> LP
+n -> ID
+== -> EQ
+17 -> NUM
+) -> RP
+{ -> UNKNOWN
+return -> ID
+1 -> NUM
+; -> SEMI
+} -> UNKNOWN
